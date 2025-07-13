@@ -1,0 +1,11 @@
+NxA	4
+NxB	3
+Ny	2
+eps_x	0.1
+K0	1.0
+Nstates	-999
+dis_K	0
+dis_eps	0
+OMP	1
+MKL	1
+dir	/gscratch/stf/jhartse/data/ising/

@@ -1,0 +1,11 @@
+NxA	3
+NxB	4
+Ny	2
+eps_x	0.5
+K0	1.0
+Nstates	-999
+dis_K	0
+dis_eps	0
+OMP	1
+MKL	1
+dir	/home/jeremy/Documents/ZN LGT/data_originalZN/dual/ising/

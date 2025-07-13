@@ -1,0 +1,12 @@
+N	2
+NxA	4
+NxB	4
+Ny	2
+g0	0.1
+K0	1.0
+Nstates	-999
+OMP	1
+MKL	1
+Vx	0
+Vy	0
+dir	/gscratch/stf/jhartse/data/dual/scars_even/
