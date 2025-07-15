@@ -20,5 +20,5 @@ The "Time_evo" folder contains the raw data for the time evolution plots. There 
     g_quench - the coupling used for the time evolution
     steps - the number of steps in the random circuit
 
-The loschmidt echo data is stored in "echo_scar.bin" and "echo_nonscar.bin" respectively. The entanglement data is stored in "entang_nonscar". The observables data is stored in files named like "X_plaq_scar" that describe what observables are measured. 
+The loschmidt echo data is stored in "echo_scar.bin" and "echo_nonscar.bin" respectively. The entanglement data is stored in "entang_nonscar.bin". The observables data is stored in files named like "X_plaq_scar.bin" that describe what observables are measured. 
     
